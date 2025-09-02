@@ -1,4 +1,4 @@
-# Resume_Job_Matcher
+# Resume_Job_Matcher (Stop)
 This is a new and unfinished project aimed at matching resumes to the most suitable job offers based on the job description using a semantic similarity model.
 
 ---
